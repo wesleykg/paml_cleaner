@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Rapp.history
+.spyderworkspace
+.DS_Store
+*.fasta
+*.fas
+*.fa
+*.phylip
+*.phy
+*.tsv
